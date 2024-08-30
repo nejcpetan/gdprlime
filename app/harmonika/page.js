@@ -17,25 +17,25 @@ export default function Harmonika() {
       <Accordion type="single" collapsible className="w-fit mx-auto">
         <AccordionItem value="item-1">
           <AccordionTrigger>
-            S klikom na gumb "Potrdi" soglašate z obdelavo osebnih podatkov v
-            družbi Big Bang, d.o.o.
+            S klikom na gumb &quot;Potrdi&quot; soglašate z obdelavo osebnih
+            podatkov v družbi Big Bang, d.o.o.
           </AccordionTrigger>
           <AccordionContent>
-            S klikom na gumb "Potrdi" se strinjate, da družba Big Bang, d.o.o.
-            (upravljalec) skupaj s pogodbenim obdelovalcem Adanta d.o.o. in
-            njegovimi podobdelovalci AWS Offering, Amazon Web Services EMEA
-            SARL, Axiom, Inc., Functional Software, Inc., PostHog Inc, Infobip
-            Limited, E-RAČUNI, spletni poslovni programi, d.o.o., Google Ireland
-            Limited, Facebook Ireland Limited, Stripe Payments Europe Limited
-            obdeluje in uporablja zgoraj navedene podatke (elektronski naslov,
-            ime in priimek, telefonska številka) izključno za namen obravnave
-            posredovanega povpraševanja, to pa je rezervacije termina . Osebni
-            podatki se ne uporabljajo in ne obdelujejo za druge namene.
+            S klikom na gumb &quot;Potrdi&quot; se strinjate, da družba Big
+            Bang, d.o.o. (upravljalec) skupaj s pogodbenim obdelovalcem Adanta
+            d.o.o. in njegovimi podobdelovalci AWS Offering, Amazon Web Services
+            EMEA SARL, Axiom, Inc., Functional Software, Inc., PostHog Inc,
+            Infobip Limited, E-RAČUNI, spletni poslovni programi, d.o.o., Google
+            Ireland Limited, Facebook Ireland Limited, Stripe Payments Europe
+            Limited obdeluje in uporablja zgoraj navedene podatke (elektronski
+            naslov, ime in priimek, telefonska številka) izključno za namen
+            obravnave posredovanega povpraševanja, to pa je rezervacije termina
+            . Osebni podatki se ne uporabljajo in ne obdelujejo za druge namene.
             Seznanjen(a) sem, da imam glede mojih osebnih podatkov pravico
             seznanitve, popravka, dopolnitve, omejitve obdelave, preklica in
             izbrisa, prenosljivosti, in sicer s podajo pisnega zahtevka na
             naslov Big Bang, d.o.o., Madžarska ulica 12, 1000 Ljubljana, s
-            pripisom »za DPO« ali na elektronsko pošto:
+            pripisom &quot;za DPO&quot; ali na elektronsko pošto:
             <a className="underline" href="mailto: gdpr@bigbang.si">
               gdpr@bigbang.si
             </a>

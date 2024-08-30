@@ -9,7 +9,7 @@ export default function Povezava() {
       </h1>
       <div className="m-12 text-center">
         <p>
-          S klikom na gumb "Potrdi" soglašate z
+          S klikom na gumb &quot;Potrdi&quot; soglašate z
           <Link className="text underline" href="/povezava/zasebnost">
             obdelavo osebnih podatkov v družbi Big Bang, d.o.o.
           </Link>

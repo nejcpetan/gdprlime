@@ -5,8 +5,8 @@ export default function Zasebnost() {
   return (
     <div className="flex flex-col items-center justify-between p-24 max-w-screen">
       <p>
-        S klikom na gumb "Potrdi" se strinjate, da družba Big Bang, d.o.o.
-        (upravljalec) skupaj s pogodbenim obdelovalcem Adanta d.o.o. in
+        S klikom na gumb &quot;Potrdi&quot; se strinjate, da družba Big Bang,
+        d.o.o. (upravljalec) skupaj s pogodbenim obdelovalcem Adanta d.o.o. in
         njegovimi podobdelovalci AWS Offering, Amazon Web Services EMEA SARL,
         Axiom, Inc., Functional Software, Inc., PostHog Inc, Infobip Limited,
         E-RAČUNI, spletni poslovni programi, d.o.o., Google Ireland Limited,
@@ -18,7 +18,7 @@ export default function Zasebnost() {
         glede mojih osebnih podatkov pravico seznanitve, popravka, dopolnitve,
         omejitve obdelave, preklica in izbrisa, prenosljivosti, in sicer s
         podajo pisnega zahtevka na naslov Big Bang, d.o.o., Madžarska ulica 12,
-        1000 Ljubljana, s pripisom »za DPO« ali na elektronsko pošto:
+        1000 Ljubljana, s pripisom &quot;za DPO&quot; ali na elektronsko pošto:
         <a className="underline" href="mailto: gdpr@bigbang.si">
           gdpr@bigbang.si
         </a>
