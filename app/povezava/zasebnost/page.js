@@ -18,7 +18,7 @@ export default function Zasebnost() {
         glede mojih osebnih podatkov pravico seznanitve, popravka, dopolnitve,
         omejitve obdelave, preklica in izbrisa, prenosljivosti, in sicer s
         podajo pisnega zahtevka na naslov Big Bang, d.o.o., Madžarska ulica 12,
-        1000 Ljubljana, s pripisom »za DPO« ali na elektronsko pošto:{" "}
+        1000 Ljubljana, s pripisom »za DPO« ali na elektronsko pošto:
         <a className="underline" href="mailto: gdpr@bigbang.si">
           gdpr@bigbang.si
         </a>
@@ -38,7 +38,7 @@ export default function Zasebnost() {
         varstvu osebnih podatkov in v skladu s predpisi, ki urejajo varstvo
         osebnih podatkov ter Politiko zasebnosti – varstvo osebnih podatkov, ki
         jo je sprejel upravljavec v zvezi z zagotavljanjem varstva osebnih
-        podatkov, ki mi je ves čas dostopna na povezavi{" "}
+        podatkov, ki mi je ves čas dostopna na povezavi
         <a
           className="underline"
           href="https://www.bigbang.si/politika-zasebnosti/#Big%20Bang"
@@ -46,7 +46,7 @@ export default function Zasebnost() {
           Politika zasebnosti
         </a>
         . Z Izjavo zasebnosti našega pogodbenega obdelovalca Adanta d.o.o. se
-        lahko seznanite{" "}
+        lahko seznanite
         <a
           className="underline"
           href="https://lime-booking.si/izjava-o-zasebnosti/"
