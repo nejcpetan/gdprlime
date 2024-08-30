@@ -33,7 +33,7 @@ export default function Popup() {
               Obdelava osebnih podatkov v družbi Big Bang, d.o.o.
             </AlertDialogTitle>
             <AlertDialogDescription>
-              <ScrollArea className="h-[500px] w-full rounded-md border p-4">
+              <ScrollArea className="h-[300px] w-full rounded-md border p-4">
                 <p>
                   S klikom na gumb &quot;Potrdi&quot; se strinjate, da družba
                   Big Bang, d.o.o. (upravljalec) skupaj s pogodbenim
