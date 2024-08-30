@@ -12,7 +12,7 @@ export default function Harmonika() {
   return (
     <div className="flex flex-col items-center justify-between p-12 pt-24 max-w-screen">
       <h1 className="mb-4 text-2xl font-bold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-5xl dark:text-white">
-        Primer 1
+        Primer 1: Accordion
       </h1>
       <Accordion type="single" collapsible className="w-fit mx-auto">
         <AccordionItem value="item-1">
