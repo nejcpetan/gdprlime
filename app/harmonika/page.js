@@ -10,7 +10,7 @@ import Link from "next/link";
 
 export default function Harmonika() {
   return (
-    <div className="flex flex-col items-center justify-between p-24 max-w-screen">
+    <div className="flex flex-col items-center justify-between p-12 pt-24 max-w-screen">
       <h1 className="mb-4 text-2xl font-bold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-5xl dark:text-white">
         Primer 1
       </h1>

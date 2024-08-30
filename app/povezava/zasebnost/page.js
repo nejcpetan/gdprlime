@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Zasebnost() {
   return (
-    <div className="flex flex-col items-center justify-between p-24 max-w-screen">
+    <div className="flex flex-col items-center justify-between p-12 pt-24 max-w-screen">
       <p>
         S klikom na gumb &quot;Potrdi&quot; se strinjate, da družba Big Bang,
         d.o.o. (upravljalec) skupaj s pogodbenim obdelovalcem Adanta d.o.o. in

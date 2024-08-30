@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 
 export default function Povezava() {
   return (
-    <div className="flex flex-col items-center justify-between p-24 max-w-screen">
+    <div className="flex flex-col items-center justify-between p-2 pt-24 max-w-screen">
       <h1 className="mb-4 text-2xl font-bold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-5xl dark:text-white">
         Primer 2
       </h1>

@@ -21,6 +21,9 @@ export default function Home() {
       <Button className="m-12">
         <Link href="/povezava">Primer 2</Link>
       </Button>
+      <Button className="m-12">
+        <Link href="/popup">Primer 3</Link>
+      </Button>
     </main>
   );
 }
